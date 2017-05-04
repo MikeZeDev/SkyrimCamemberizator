@@ -1,0 +1,4 @@
+LIBRARY	"SkyrimCam"
+EXPORTS
+SKSEPlugin_Query
+SKSEPlugin_Load
